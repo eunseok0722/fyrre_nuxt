@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/authors/10", {data:[{}],fetch:{},mutations:[]});
