@@ -1,1 +1,0 @@
-# fyrre_nuxt
